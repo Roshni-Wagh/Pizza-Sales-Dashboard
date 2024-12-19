@@ -1,1 +1,2 @@
 # Pizza-Sales-Dashboard
+This Pizza Sales Analysis (2015) project is an intensive study of pizza sales data. The objective is to retrive insights from large dataset, identify trends, that may have contributed to customer purchasing behavior. The Pizza sales dashbord is created by analyzing, filtering and visulaizing the dataset using Power BI. By analyzing this data, the project aims to provide business intelligence that can help optimize sales strategies, marketing campaigns, and operational decisions for future grow.
